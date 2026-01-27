@@ -169,8 +169,8 @@
 - **资料简介**
 <div align="center">
   <kbd>
-   <img src="https://fchxxn.com/img/git/%E9%A1%B9%E7%9B%AE%E5%9B%BE%E7%89%87/首页.png?version=2025_8&time=100" title="点击查看大图：首页" width=260 />
-   <img src="https://fchxxn.com/img/git/%E9%A1%B9%E7%9B%AE%E5%9B%BE%E7%89%87/视频.png?version=2025_8&time=100" title="点击查看大图：视频" width=260 />
+   <img src="https://fchxxn.com/img/git/%E9%A1%B9%E7%9B%AE%E5%9B%BE%E7%89%87/首页.png?version=2026_8&time=100" title="点击查看大图：首页" width=260 />
+   <img src="https://fchxxn.com/img/git/%E9%A1%B9%E7%9B%AE%E5%9B%BE%E7%89%87/视频.png?version=2026_8&time=100" title="点击查看大图：视频" width=260 />
    <img src="https://fchxxn.com/img/git/%E9%A1%B9%E7%9B%AE%E5%9B%BE%E7%89%87/真题.png?version=2025_6&time=10" title="点击查看大图：真题" width=260 />
    <img src="https://fchxxn.com/img/git/%E9%A1%B9%E7%9B%AE%E5%9B%BE%E7%89%87/论文.jpg?version=2025_6&time=1" title="点击查看大图：论文" width=260 />
    <img src="https://fchxxn.com/img/git/%E9%A1%B9%E7%9B%AE%E5%9B%BE%E7%89%87/教材.jpg?version=2025_6&ui=2" title="点击查看大图：教材" width=260 />
